@@ -1,26 +1,42 @@
-# To Run
+# Project Name
+> A flashcard-style quiz app.
+> Live demo [_here_](https://peterkibuchi.github.io/react-redux-flashcards/).
 
-Run `npm start` in the project root and the app will be available on port 3000.
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Project Status](#project-status)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
+<!-- * [License](#license) -->
 
-# State
 
-The app's state is totally normalized, with slices for topics, quizzes, and cards.
+## General Information
+- I undertook this project as a hands-on means of learning how to manage complex state with Redux.
 
-# Routes
 
-- `/new-topic` – form to create a new topic
-- `/topics` – index of all topics
-- `/topics/:topicId` – page for an individual topic
-- `/new-quiz` – form to create a new quiz
-- `/quizzes` – index of all quizzes
-- `/quizzes/:quizId` – page for an individual quiz
+## Technologies Used
+- React
+- Redux
 
-# To Test
 
-1. Create topics
-2. Create quizzes
-3. Visit the page for an individual quiz and flip the cards over
+## Features
+- Users are be able to create their own topics, quizzes for those topics, and flashcards for those quizzes.
+- Users are also be able to interact with their quizzes by flipping flashcards over.
 
-# Questions
 
-Is this appropriately scoped? Does it have too many features? Too few?
+## Project Status
+Project is: _complete_.
+
+
+## Acknowledgements
+- This is a challenge project on Codecademy's [Full-Stack Engineer Career Path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path).
+
+
+## Contact
+Created by [Peter Kibuchi](https://www.peterkibuchi.com/).
+
+
+<!-- ## License -->
+<!-- This project is open source and available under the [... License](). -->
