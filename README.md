@@ -1,4 +1,4 @@
-# Project Name
+# React Redux Flashcards
 > A flashcard-style quiz app.
 > Live demo [_here_](https://peterkibuchi.github.io/react-redux-flashcards/).
 
